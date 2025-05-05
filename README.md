@@ -7,7 +7,7 @@
 
 ### 🧠 About Me
 
-- 💻 Focused on data analysis, machine learning, backend engineering, and cybersecurity.  
+- 💻 Focused on data analysis, machine learning, full-stack development, and cybersecurity.  
 - 🎓 Studying Data and Information Science at UW-Madison. Estimated graduation in December 2026  
 - 🤖 Experienced in machine learning and predictive modeling
 
