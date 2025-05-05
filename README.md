@@ -8,8 +8,8 @@
 ### 🧠 About Me
 
 - 💻 Focused on data analysis, machine learning, full-stack development, and cybersecurity.  
-- 🎓 Studying Data and Information Science at UW-Madison. Expected graduation in December 2026  
-- 🤖 Experienced in data analysis and predictive modeling
+- 🎓 Studying Data and Information Science at UW-Madison. Expected graduation in December 2026.  
+- 🤖 Experienced in data analysis and predictive modeling.
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/farouk-alghazzy-44b40622b/)
 
 
