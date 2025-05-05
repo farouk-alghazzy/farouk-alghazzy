@@ -15,19 +15,18 @@
 
 ### 🛠️ Languages
 
-#### My Best Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=R&logoColor=white)
-![SQL](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=SQL&logoColor=white)
+### My Best Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### I Have Experience With  
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Shell Script](https://img.shields.io/badge/-Shell_Script-4EAA25?style=flat-square&logo=gnu-bash)
+### I Have Experience With  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash)
 
 ---
 
