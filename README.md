@@ -9,7 +9,7 @@
 
 - 💻 Focused on data analysis, machine learning, full-stack development, and cybersecurity.  
 - 🎓 Studying Data and Information Science at UW-Madison. Estimated graduation in December 2026  
-- 🤖 Experienced in machine learning and predictive modeling
+- 🤖 Experienced in data analysis and predictive modeling
 
 ---
 
