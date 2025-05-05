@@ -7,7 +7,7 @@
 
 ### 🧠 About Me
 
-- 💻 Coder focused on clean, fast, and efficient solutions   
+- 💻 Focused on data analysis, machine learning, backend engineering, and cybersecurity.  
 - 🎓 Studying Data and Information Science at UW-Madison. Estimated graduation in December 2026  
 - 🤖 Experienced in machine learning and predictive modeling
 
