@@ -49,7 +49,7 @@
 | Project | Description | Language |
 |--------|-------------|----------|
 | [**sql-injection-detector**](https://github.com/farouk-alghazzy/sql-injection-detector) | Lightweight tool for detecting SQL injection vulnerabilities in user input. Uses pattern matching and input sanitization techniques. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| [**flight-price-predictor**](https://github.com/farouk-alghazzy/flight-delay-project) | Machine learning model that forecasts US flight delays, based on 3 million flights between 2019-2023. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
+| [**flight-delay-predictor**](https://github.com/farouk-alghazzy/flight-delay-project) | Machine learning model that forecasts US flight delays, based on 3 million flights between 2019-2023. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
 
 
 ## 🛠️ Some of My Favorite Tools
