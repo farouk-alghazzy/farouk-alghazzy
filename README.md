@@ -43,7 +43,7 @@
   - Developed small trading tools using Python and SQL  
   - Worked with HTML/CSS to build clean frontends
 
-## 🎓 Certifications In Progress
+## 🎓 Certifications 
 
 - AWS Certified Cloud Practitioner - in progress  
 - ISC2 CC Entry Level Cybersecurity - in progress
