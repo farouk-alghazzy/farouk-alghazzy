@@ -45,7 +45,7 @@
 
 ## 🎓 Certifications In Progress
 
-- AWS Certified Cloud Practitioner — in progress  
+- AWS Certified Cloud Practitioner - in progress  
 - ISC2 CC Enty Level Cybersecurity - in progress
 
 ## 📁 My Favorite Projects
