@@ -8,7 +8,7 @@
 ### 🧠 About Me
 
 - 💻 Coder focused on clean, fast, and efficient solutions   
-- 🎓 Studying Data and Information Science at UW-Madison. Graduating in December 2026  
+- 🎓 Studying Data and Information Science at UW-Madison. Estimated graduation in December 2026  
 - 🤖 Experienced in machine learning and predictive modeling
 
 ---
