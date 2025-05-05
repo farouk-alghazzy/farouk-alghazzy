@@ -1,4 +1,7 @@
-<h1 align="center"> Hello👋 I'm Farouk<br>Welcome to my README.md </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0DCAF0&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B+I'm+Farouk;Welcome+to+my+README.md!" alt="Typing SVG" />
+</p>
+
 
 ---
 
