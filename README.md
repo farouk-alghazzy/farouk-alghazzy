@@ -48,7 +48,7 @@
 ## 🎓 Certifications 
 
 - AWS Certified Cloud Practitioner - in progress  
-- ISC2 CC Entry Level Cybersecurity - in progress
+- CompTIA Security+ - in progess
 
 ## 📁 My Favorite Projects
 
