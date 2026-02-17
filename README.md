@@ -7,9 +7,9 @@
 
 ### 🧠 About Me
 
-- 💻 Focused on data analysis, machine learning, full-stack development, and cybersecurity.  
-- 🎓 Studying Data and Information Science at UW-Madison. Expected graduation in December 2026.  
-- 🤖 Experienced in data analysis and predictive modeling.
+- Focused on data analysis, machine learning and cybersecurity.  
+- Studying Data and Information Science at UW-Madison. Expected graduation in December 2026.  
+- Experienced in data analysis and predictive modeling.
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/farouk-alghazzy-44b40622b/)
 
 
@@ -32,30 +32,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 
 ---
-
-### 🔍 What I'm up to
-
-- 🔄 **Currently working on**  
-  - Building full-stack personal projects  
-  - Practicing data analysis with R, pandas, etc.
-  - Training more machine learning models on custom datasets  
- 
-- ✅ **What I’ve done**  
-  - Developed machine learning models with scikit-learn    
-  - Developed small trading tools using Python and SQL  
-  - Worked with HTML/CSS to build clean frontends
-
-## 🎓 Certifications 
-
-- AWS Certified Cloud Practitioner - in progress  
-- CompTIA Security+ - in progess
-
-## 📁 My Favorite Projects
-
-| Project | Description | Language |
-|--------|-------------|----------|
-| [**sql-injection-detector**](https://github.com/farouk-alghazzy/sql-injection-detector) | Lightweight tool for detecting SQL injection vulnerabilities in user input. Uses pattern matching and input sanitization techniques. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| [**flight-delay-predictor**](https://github.com/farouk-alghazzy/flight-delay-project) | Machine learning model that forecasts US flight delays, based on 3 million flights between 2019-2023. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
 
 
 ## 🛠️ Some of My Favorite Tools
