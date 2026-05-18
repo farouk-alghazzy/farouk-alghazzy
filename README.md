@@ -9,7 +9,7 @@
 
 - Focused on data analysis, machine learning and cybersecurity.  
 - Studying Data and Information Science at UW-Madison. Expected graduation in December 2026.  
-- Experienced in data analysis and predictive modeling.
+- Experienced in data analysis, visualization, and predictive modeling.
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/farouk-alghazzy-44b40622b/)
 
 
